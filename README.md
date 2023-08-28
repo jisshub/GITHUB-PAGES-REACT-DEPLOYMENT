@@ -119,5 +119,8 @@ https://jisshub.github.io/ecommerce-app/
 
 By following these instructions, your app should be visible without issues.
 
+## 7. References
+
+[ChatGPT*](https://chat.openai.com/share/b04be2e4-55b5-4bed-825a-efd63598472a)
 --- 
 
