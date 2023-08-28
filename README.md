@@ -26,7 +26,10 @@ In your `package.json`:
 - Add a `homepage` field:
 
 ```json
-"homepage": "https://jisshub.github.io/ecommerce-app/"
+  "name": "ecommerce-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://jisshub.github.io/ecommerce-app/",
 ```
 
 - Modify scripts for deployment:
